@@ -1,4 +1,4 @@
-# DevSe_Wiki
+# DevSe_Wiki CI/CD용
 
 ## DevSe Wiki 개요
 - DevSe 위키는 DevSe 연합에 관한 정보를 제공하며, 박예찬, 최승우가 제작하였습니다.
